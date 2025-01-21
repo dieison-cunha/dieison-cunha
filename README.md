@@ -17,6 +17,3 @@
 <div>
 <a href="https://instagram.com/dieison.cunha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<div>
-<a href="https://www.linkedin.com/in/dieison-maycon" src="https://img.shields.io/badge/just%20the%20message-8A2BE2"></a>
-
